@@ -1,0 +1,7 @@
+{
+  "name": "pnpm-why-npm-alias",
+  "dependencies": {
+    "@types/react": "npm:types-react@^19.0.0-rc"
+  },
+  "packageManager": "pnpm@9.12.2"
+}
